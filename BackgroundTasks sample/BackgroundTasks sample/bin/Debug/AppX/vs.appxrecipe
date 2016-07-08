@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KIRIL-DESKTOP</Machine>
+    <WindowsUser>kiseksen</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d622842c-ffab-41a9-aad0-17303f3a122d</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\kiseksen\Desktop\BackgroundTasks sample\BackgroundTasks sample\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>8F05EFBEF2715649991FCE5E61D8E147F36BDA3F30BFEBC2416F973786043BD3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d622842c-ffab-41a9-aad0-17303f3a122d_1.0.0.0_neutral__gk67abdd0vp4a</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d622842c-ffab-41a9-aad0-17303f3a122d_gk67abdd0vp4a!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d622842c-ffab-41a9-aad0-17303f3a122d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=cayildir</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\kiseksen\Desktop\BackgroundTasks sample\BackgroundTasks sample\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-08T00:18:15.468</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Desktop\BackgroundTasks sample\BackgroundTasks sample\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2016-06-30T02:01:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Desktop\BackgroundTasks sample\BackgroundTasks sample\html\scenario1_JavascriptBackgroundTask.html">
+      <PackagePath>html\scenario1_JavascriptBackgroundTask.html</PackagePath>
+      <Modified>2016-06-30T02:01:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Desktop\BackgroundTasks sample\BackgroundTasks sample\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2016-07-07T23:37:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Desktop\BackgroundTasks sample\BackgroundTasks sample\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-07-21T03:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Desktop\BackgroundTasks sample\BackgroundTasks sample\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-21T03:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Desktop\BackgroundTasks sample\BackgroundTasks sample\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-21T03:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Desktop\BackgroundTasks sample\BackgroundTasks sample\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-21T03:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Desktop\BackgroundTasks sample\BackgroundTasks sample\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-21T03:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Desktop\BackgroundTasks sample\BackgroundTasks sample\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-21T03:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Desktop\BackgroundTasks sample\BackgroundTasks sample\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-21T03:06:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Desktop\BackgroundTasks sample\BackgroundTasks sample\js\backgroundtask.js">
+      <PackagePath>js\backgroundtask.js</PackagePath>
+      <Modified>2016-06-30T02:01:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Desktop\BackgroundTasks sample\BackgroundTasks sample\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2016-06-30T02:01:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Desktop\BackgroundTasks sample\BackgroundTasks sample\js\global.js">
+      <PackagePath>js\global.js</PackagePath>
+      <Modified>2016-06-30T02:01:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Desktop\BackgroundTasks sample\BackgroundTasks sample\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2016-07-07T23:37:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Desktop\BackgroundTasks sample\BackgroundTasks sample\js\platform.js">
+      <PackagePath>js\platform.js</PackagePath>
+      <Modified>2016-06-30T02:01:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Desktop\BackgroundTasks sample\BackgroundTasks sample\js\sample-configuration.js">
+      <PackagePath>js\sample-configuration.js</PackagePath>
+      <Modified>2016-06-30T02:01:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Desktop\BackgroundTasks sample\BackgroundTasks sample\js\scenario1_JavascriptBackgroundTask.js">
+      <PackagePath>js\scenario1_JavascriptBackgroundTask.js</PackagePath>
+      <Modified>2016-07-07T23:44:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Desktop\BackgroundTasks sample\BackgroundTasks sample\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2016-07-07T23:37:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Desktop\BackgroundTasks sample\BackgroundTasks sample\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-07-08T00:18:15.383</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
